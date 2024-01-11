@@ -6,8 +6,8 @@
 This project implements a todo list application with user registration, authentication, and CRUD operations for managing todos. It includes functionalities such as creating, editing, deleting todos, filtering by status, and toggling todo completion status.
 
 **Performance Metrics:**
-  ![Lighthouse Scores](https://imgdb.net/storage/uploads/f7b59a6cdaa643d9d0d987d8a6bf1d252ac8b1bda55097e37a27a984781b09a2.png)
-  - [Test Performance Here](https://pagespeed.web.dev/analysis/https-techamster-github-io-todo/fpab8z6kn7?form_factor=desktop)
+  ![Lighthouse Scores](https://imgdb.net/storage/uploads/2d994a1e6421734ede7cd24a53779ae469c9cf2015d36a9f744ed0fbbcb03832.png)
+  - [Test Performance Here]([https://pagespeed.web.dev/analysis/https-techamster-github-io-todo/fpab8z6kn7?form_factor=desktop](https://pagespeed.web.dev/analysis/https-h-amster-github-io-todo-list/51ej9vntuc?form_factor=desktop))
 
 ## Features
 **User Registration and Authentication:**
